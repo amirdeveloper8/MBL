@@ -1,0 +1,15 @@
+.google {
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+.google button {
+  width: 100%;
+  cursor: pointer;
+  font: inherit;
+  color: white;
+  background-color: #cc3232;
+  border: 1px solid #cc3232;
+  border-radius: 4px;
+  padding: 0.5rem 2.5rem;
+}

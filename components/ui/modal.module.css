@@ -1,0 +1,12 @@
+.modal {
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 59, 47, 0.664);
+  padding: 5%;
+  height: 100%;
+  width: 100%;
+  left: 0;
+}

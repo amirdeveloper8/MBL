@@ -1,0 +1,50 @@
+.auth {
+  margin: 3rem auto;
+  width: 95%;
+  max-width: 30rem;
+  border-radius: 6px;
+  background-color: #ffffff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.auth h1 {
+  text-align: center;
+  color: white;
+}
+
+.logActions {
+  display: flex;
+  background-color: #38015c;
+}
+
+.login {
+  background-color: #38015c;
+}
+
+.login h3 {
+  color: white;
+  padding-top: 1rem;
+}
+
+.logActions button {
+  cursor: pointer;
+  font: inherit;
+  color: white;
+
+  border: 1px solid #b583d6;
+  padding: 0.5rem 2.5rem;
+  width: 100%;
+}
+
+.logActions .active {
+  background-color: #17772f;
+}
+
+.logActions .deactive {
+  background-color: #595a59;
+}
+
+.logActions button:hover {
+  background-color: #9f5ccc;
+}
